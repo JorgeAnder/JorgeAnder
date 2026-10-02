@@ -56,21 +56,6 @@ Atiende clientes 24/7, responde precios exactos, registra pedidos y avisa por Te
 
 ---
 
-## 🎯 Habilidades
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-70%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-60%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-60%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-60%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-40%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
 ## 🚀 Disponible para proyectos
 
 <div align="center">
