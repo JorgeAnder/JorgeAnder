@@ -56,13 +56,30 @@ Atiende clientes 24/7, responde precios exactos, registra pedidos y avisa por Te
 
 ---
 
-## 📊 Stats
+## 🎯 Habilidades
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeAnder&show_icons=true&theme=dark&hide_border=true)
+![Python](https://img.shields.io/badge/Python-████████░░-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-███████░░░-70%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-██████░░░░-60%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-██████░░░░-60%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-██████░░░░-60%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-████░░░░░░-40%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAnder&layout=compact&theme=dark&hide_border=true)
+</div>
+
+---
+
+## 🚀 Disponible para proyectos
+
+<div align="center">
+
+¿Tienes un negocio que necesita automatización, un sistema web o un bot de ventas?
+
+**Escríbeme y conversemos sobre tu proyecto.**
+
+📍 Lima, Perú · 🌍 Remoto
 
 </div>
 
