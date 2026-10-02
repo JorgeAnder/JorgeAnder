@@ -76,6 +76,8 @@ Atiende clientes 24/7, responde precios exactos, registra pedidos y avisa por Te
 
 📍 Lima, Perú
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-913625305-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51913625305)
+
 </div>
 
 ---
