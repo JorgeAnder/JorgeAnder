@@ -36,8 +36,6 @@ Asistente de ventas para Instagram. Atiende clientes 24/7, responde precios exac
 ## 📫 Contacto
 
 - 📍 Lima, Perú
-- 💼 [LinkedIn](https://linkedin.com/in/jorge-ander) *(pendiente)*
-- 🐦 [Twitter](https://twitter.com/jorgeander) *(pendiente)*
 
 ---
 
