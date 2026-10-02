@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hola, soy Jorge R
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Jorge%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Python%20%2B%20TypeScript&descAlignY=55&descSize=20" />
 
-**Desarrollador Python + TypeScript**
+### Desarrollador Python + TypeScript
 
-Automatización de procesos, sistemas web y bots para negocios
+**Automatización de procesos · Sistemas web · Bots para negocios**
 
 ---
 
@@ -20,6 +20,17 @@ Automatización de procesos, sistemas web y bots para negocios
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+## 💼 ¿Qué puedo hacer por ti?
+
+| Necesidad | Solución |
+|-----------|----------|
+| 📱 Tu negocio recibe mensajes en Instagram que no respondes | **Bot de ventas** que atiende 24/7, responde precios y registra pedidos |
+| 📊 Tienes datos en Excel que procesas manualmente | **Automatización** que genera reportes en segundos, no horas |
+| 🏪 Tu negocio necesita un sistema de gestión | **Sistema web** con inventario, ventas y reportes |
+| 🤖 Quieres atender clientes con IA | **Chatbot** entrenado con la información de tu negocio |
 
 ---
 
@@ -68,6 +79,8 @@ Atiende clientes 24/7, responde precios exactos, registra pedidos y avisa por Te
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer" />
 
 > *"El código que no se ve, no vende."*
 
